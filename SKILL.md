@@ -42,6 +42,7 @@ description: 文案去AI味 + 网站反模板设计 + 可交付构建。Use when
 - 禁形容词自夸（"强大、丝滑、颠覆"），改用可验证的事实
 
 > 完整判据、正反例、终审流程见 `references/writing-rules.md`。
+> 成稿后再扫一遍 `references/humanizer-patterns.md` 的 31 条模式：命中不等于必改，先判断是否空泛、重复或歧义。
 
 ## 2. 设计层（反模板味）
 
@@ -109,6 +110,7 @@ SKILL.md 只放常驻规则；细节按需再读，不要一次全加载：
 | 卡在哪 | 读哪个文件 |
 |---|---|
 | 句子写不干净、节奏不对、AI 味重 | `references/writing-rules.md` |
+| 想逐条排查模板腔、客服腔、假拔高 | `references/humanizer-patterns.md` |
 | 页面平淡、像模板、层级乱、IA 不清 | `references/design-rules.md` |
 | 栈不熟、门禁怎么跑、交付怎么收尾 | `references/build-rules.md` |
 | 两条规则打架、想知道默认值怎么定的 | `references/conflicts.md` |
