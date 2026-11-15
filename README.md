@@ -20,6 +20,7 @@
 | `references/build-rules.md` | 开工 5 步、四道交付检查（门禁）、交付说明模板 |
 | `references/conflicts.md` | C1–C10 默认值：行宽、字体数量、动效、远端抓取等 |
 | `evals/test-prompts.json` | 9 条测试：该调 3 条、边界 3 条、不该调 3 条 |
+| `THIRD_PARTY_NOTICES.md` | 改编来源、版权行与 MIT 许可全文 |
 
 ## 装
 
@@ -79,7 +80,7 @@ Trae，项目级（只对这个仓库生效）：
 
 ## 已知限制
 
-- 规则不带出处，方便公开分发。需要溯源看你自己的笔记。
+- 写作模式改编自两个公开的 MIT 项目，版权与许可写在 `THIRD_PARTY_NOTICES.md`；不逐条标注页码。
 - Design Read 第 4 问靠人给素材，代理编不出来。
 - eval 靠人工比对两次输出，仓库里没有自动打分脚本。
 
